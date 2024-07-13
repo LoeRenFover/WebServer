@@ -1,0 +1,799 @@
+2024-07-13 16:48:04.710501 [erro]: MySQL Error
+2024-07-13 16:48:38.320645 [erro]: MySQL Error
+2024-07-13 16:51:10.851870 [erro]: MySQL Error
+2024-07-13 17:04:30.842629 [erro]: MySQL Error
+2024-07-13 17:13:12.968594 [erro]: MySQL Error
+2024-07-13 17:25:55.252690 [erro]: MySQL Error
+2024-07-13 17:36:30.874811 [info]: timer tick
+2024-07-13 17:36:35.874888 [info]: timer tick
+2024-07-13 17:36:40.875114 [info]: timer tick
+2024-07-13 17:36:45.875639 [info]: timer tick
+2024-07-13 17:36:50.876350 [info]: timer tick
+2024-07-13 17:36:55.877025 [info]: timer tick
+2024-07-13 17:37:00.877253 [info]: timer tick
+2024-07-13 17:37:05.878186 [info]: timer tick
+2024-07-13 17:37:10.878645 [info]: timer tick
+2024-07-13 17:37:15.878879 [info]: timer tick
+2024-07-13 17:37:20.879959 [info]: timer tick
+2024-07-13 17:37:25.880439 [info]: timer tick
+2024-07-13 17:37:30.880656 [info]: timer tick
+2024-07-13 17:37:35.880699 [info]: timer tick
+2024-07-13 17:37:40.881166 [info]: timer tick
+2024-07-13 17:37:44.324702 [info]: adjust timer once
+2024-07-13 17:37:44.325076 [info]: GET / HTTP/1.1
+2024-07-13 17:37:44.325160 [info]: Host: 127.0.0.1:9006
+2024-07-13 17:37:44.325169 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+2024-07-13 17:37:44.325172 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+2024-07-13 17:37:44.325174 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-07-13 17:37:44.325177 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-07-13 17:37:44.325212 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-07-13 17:37:44.325215 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-07-13 17:37:44.325217 [info]: Accept-Encoding: gzip, deflate, br
+2024-07-13 17:37:44.325220 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-07-13 17:37:44.325222 [info]: Connection: keep-alive
+2024-07-13 17:37:44.325225 [info]: Upgrade-Insecure-Requests: 1
+2024-07-13 17:37:44.325227 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-07-13 17:37:44.325230 [info]: Sec-Fetch-Dest: document
+2024-07-13 17:37:44.325232 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-07-13 17:37:44.325248 [info]: Sec-Fetch-Mode: navigate
+2024-07-13 17:37:44.325252 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-07-13 17:37:44.325255 [info]: Sec-Fetch-Site: none
+2024-07-13 17:37:44.325257 [info]: oop!unknow header: Sec-Fetch-Site: none
+2024-07-13 17:37:44.325275 [info]: Sec-Fetch-User: ?1
+2024-07-13 17:37:44.325278 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-07-13 17:37:44.325280 [info]: 
+2024-07-13 17:37:44.325350 [info]: request:HTTP/1.1 200 OK
+
+2024-07-13 17:37:44.325411 [info]: request:HTTP/1.1 200 OK
+Content-Length:612
+
+2024-07-13 17:37:44.325417 [info]: request:HTTP/1.1 200 OK
+Content-Length:612
+Connection:keep-alive
+
+2024-07-13 17:37:44.325419 [info]: request:HTTP/1.1 200 OK
+Content-Length:612
+Connection:keep-alive
+
+
+2024-07-13 17:37:44.325863 [info]: adjust timer once
+2024-07-13 17:37:44.402903 [info]: adjust timer once
+2024-07-13 17:37:44.403177 [info]: GET /favicon.ico HTTP/1.1
+2024-07-13 17:37:44.403311 [info]: Host: 127.0.0.1:9006
+2024-07-13 17:37:44.403340 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+2024-07-13 17:37:44.403348 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+2024-07-13 17:37:44.403362 [info]: Accept: image/avif,image/webp,*/*
+2024-07-13 17:37:44.403366 [info]: oop!unknow header: Accept: image/avif,image/webp,*/*
+2024-07-13 17:37:44.403369 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-07-13 17:37:44.403401 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-07-13 17:37:44.403446 [info]: Accept-Encoding: gzip, deflate, br
+2024-07-13 17:37:44.403451 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-07-13 17:37:44.403454 [info]: Connection: keep-alive
+2024-07-13 17:37:44.403457 [info]: Referer: http://127.0.0.1:9006/
+2024-07-13 17:37:44.403496 [info]: oop!unknow header: Referer: http://127.0.0.1:9006/
+2024-07-13 17:37:44.403506 [info]: Sec-Fetch-Dest: image
+2024-07-13 17:37:44.403511 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2024-07-13 17:37:44.403515 [info]: Sec-Fetch-Mode: no-cors
+2024-07-13 17:37:44.403531 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2024-07-13 17:37:44.403537 [info]: Sec-Fetch-Site: same-origin
+2024-07-13 17:37:44.403541 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-07-13 17:37:44.403545 [info]: 
+2024-07-13 17:37:44.403602 [info]: request:HTTP/1.1 200 OK
+
+2024-07-13 17:37:44.403665 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+
+2024-07-13 17:37:44.403698 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+2024-07-13 17:37:44.403749 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+
+2024-07-13 17:37:44.403790 [info]: adjust timer once
+2024-07-13 17:37:45.881288 [info]: timer tick
+2024-07-13 17:37:50.881980 [info]: timer tick
+2024-07-13 17:37:55.882608 [info]: timer tick
+2024-07-13 17:38:00.882960 [info]: timer tick
+2024-07-13 17:38:05.883309 [info]: timer tick
+2024-07-13 17:38:10.884334 [info]: timer tick
+2024-07-13 17:38:15.885867 [info]: timer tick
+2024-07-13 17:38:20.886522 [info]: timer tick
+2024-07-13 17:38:25.886977 [info]: timer tick
+2024-07-13 17:38:30.887406 [info]: timer tick
+2024-07-13 17:38:35.888577 [info]: timer tick
+2024-07-13 17:38:40.889515 [info]: timer tick
+2024-07-13 17:38:45.890178 [info]: timer tick
+2024-07-13 17:38:50.891015 [info]: timer tick
+2024-07-13 17:38:55.892249 [info]: timer tick
+2024-07-13 17:39:00.893161 [info]: timer tick
+2024-07-13 17:39:05.893805 [info]: timer tick
+2024-07-13 17:39:10.894873 [info]: timer tick
+2024-07-13 17:39:15.895308 [info]: timer tick
+2024-07-13 17:39:20.896274 [info]: timer tick
+2024-07-13 17:39:25.896461 [info]: timer tick
+2024-07-13 17:39:30.897486 [info]: timer tick
+2024-07-13 17:39:35.898416 [info]: timer tick
+2024-07-13 17:39:40.898925 [info]: timer tick
+2024-07-13 17:39:45.899559 [info]: timer tick
+2024-07-13 17:39:50.899986 [info]: timer tick
+2024-07-13 17:39:55.900335 [info]: timer tick
+2024-07-13 17:40:00.902017 [info]: timer tick
+2024-07-13 17:40:05.902262 [info]: timer tick
+2024-07-13 17:40:10.902801 [info]: timer tick
+2024-07-13 17:40:15.904318 [info]: timer tick
+2024-07-13 17:40:20.904384 [info]: timer tick
+2024-07-13 17:40:25.905804 [info]: timer tick
+2024-07-13 17:40:30.906832 [info]: timer tick
+2024-07-13 17:40:35.907875 [info]: timer tick
+2024-07-13 17:40:40.908288 [info]: timer tick
+2024-07-13 17:40:45.909387 [info]: timer tick
+2024-07-13 17:40:50.909549 [info]: timer tick
+2024-07-13 17:40:55.910321 [info]: timer tick
+2024-07-13 17:41:00.911496 [info]: timer tick
+2024-07-13 17:41:05.912359 [info]: timer tick
+2024-07-13 17:41:10.912920 [info]: timer tick
+2024-07-13 17:41:15.914180 [info]: timer tick
+2024-07-13 17:41:20.914382 [info]: timer tick
+2024-07-13 17:41:25.914779 [info]: timer tick
+2024-07-13 17:41:30.915509 [info]: timer tick
+2024-07-13 17:41:35.916549 [info]: timer tick
+2024-07-13 17:41:40.916626 [info]: timer tick
+2024-07-13 17:41:45.917274 [info]: timer tick
+2024-07-13 17:41:50.917486 [info]: timer tick
+2024-07-13 17:41:55.918240 [info]: timer tick
+2024-07-13 17:42:00.918832 [info]: timer tick
+2024-07-13 17:42:05.919336 [info]: timer tick
+2024-07-13 17:42:10.920140 [info]: timer tick
+2024-07-13 17:42:15.920222 [info]: timer tick
+2024-07-13 17:42:20.921254 [info]: timer tick
+2024-07-13 17:42:25.922295 [info]: timer tick
+2024-07-13 17:42:30.922941 [info]: timer tick
+2024-07-13 17:42:35.924174 [info]: timer tick
+2024-07-13 17:42:40.925073 [info]: timer tick
+2024-07-13 17:42:45.926334 [info]: timer tick
+2024-07-13 17:42:50.926524 [info]: timer tick
+2024-07-13 17:42:55.927146 [info]: timer tick
+2024-07-13 17:43:00.927994 [info]: timer tick
+2024-07-13 17:43:05.929058 [info]: timer tick
+2024-07-13 17:43:10.929288 [info]: timer tick
+2024-07-13 17:43:15.930285 [info]: timer tick
+2024-07-13 17:43:20.930449 [info]: timer tick
+2024-07-13 17:43:25.931680 [info]: timer tick
+2024-07-13 17:43:30.932891 [info]: timer tick
+2024-07-13 17:43:35.933861 [info]: timer tick
+2024-07-13 17:43:40.934276 [info]: timer tick
+2024-07-13 17:43:45.935524 [info]: timer tick
+2024-07-13 17:43:50.936389 [info]: timer tick
+2024-07-13 17:43:55.937132 [info]: timer tick
+2024-07-13 17:44:00.938220 [info]: timer tick
+2024-07-13 17:44:05.939154 [info]: timer tick
+2024-07-13 17:44:10.940593 [info]: timer tick
+2024-07-13 17:44:15.941454 [info]: timer tick
+2024-07-13 17:44:20.941834 [info]: timer tick
+2024-07-13 17:44:25.942882 [info]: timer tick
+2024-07-13 17:44:30.943003 [info]: timer tick
+2024-07-13 17:44:35.943281 [info]: timer tick
+2024-07-13 17:44:40.944365 [info]: timer tick
+2024-07-13 17:44:45.945588 [info]: timer tick
+2024-07-13 17:44:50.946298 [info]: timer tick
+2024-07-13 17:44:55.946558 [info]: timer tick
+2024-07-13 17:45:00.947444 [info]: timer tick
+2024-07-13 17:45:05.948700 [info]: timer tick
+2024-07-13 17:45:10.949209 [info]: timer tick
+2024-07-13 17:45:15.949807 [info]: timer tick
+2024-07-13 17:45:20.950254 [info]: timer tick
+2024-07-13 17:45:25.950578 [info]: timer tick
+2024-07-13 17:45:30.951173 [info]: timer tick
+2024-07-13 17:45:32.289796 [info]: adjust timer once
+2024-07-13 17:45:32.289979 [info]: POST /1 HTTP/1.1
+2024-07-13 17:45:32.290048 [info]: Host: 127.0.0.1:9006
+2024-07-13 17:45:32.290060 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+2024-07-13 17:45:32.290065 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+2024-07-13 17:45:32.290069 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-07-13 17:45:32.290073 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-07-13 17:45:32.290102 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-07-13 17:45:32.290110 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-07-13 17:45:32.290114 [info]: Accept-Encoding: gzip, deflate, br
+2024-07-13 17:45:32.290170 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-07-13 17:45:32.290179 [info]: Content-Type: application/x-www-form-urlencoded
+2024-07-13 17:45:32.290183 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2024-07-13 17:45:32.290223 [info]: Content-Length: 0
+2024-07-13 17:45:32.290236 [info]: Origin: http://127.0.0.1:9006
+2024-07-13 17:45:32.290304 [info]: oop!unknow header: Origin: http://127.0.0.1:9006
+2024-07-13 17:45:32.290337 [info]: Connection: keep-alive
+2024-07-13 17:45:32.290346 [info]: Referer: http://127.0.0.1:9006/
+2024-07-13 17:45:32.290374 [info]: oop!unknow header: Referer: http://127.0.0.1:9006/
+2024-07-13 17:45:32.290391 [info]: Upgrade-Insecure-Requests: 1
+2024-07-13 17:45:32.290396 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-07-13 17:45:32.290423 [info]: Sec-Fetch-Dest: document
+2024-07-13 17:45:32.290487 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-07-13 17:45:32.290507 [info]: Sec-Fetch-Mode: navigate
+2024-07-13 17:45:32.290553 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-07-13 17:45:32.290563 [info]: Sec-Fetch-Site: same-origin
+2024-07-13 17:45:32.290568 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-07-13 17:45:32.290647 [info]: Sec-Fetch-User: ?1
+2024-07-13 17:45:32.290665 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-07-13 17:45:32.290671 [info]: 
+2024-07-13 17:45:32.290738 [info]: request:HTTP/1.1 200 OK
+
+2024-07-13 17:45:32.290857 [info]: request:HTTP/1.1 200 OK
+Content-Length:746
+
+2024-07-13 17:45:32.290867 [info]: request:HTTP/1.1 200 OK
+Content-Length:746
+Connection:keep-alive
+
+2024-07-13 17:45:32.290887 [info]: request:HTTP/1.1 200 OK
+Content-Length:746
+Connection:keep-alive
+
+
+2024-07-13 17:45:32.290987 [info]: adjust timer once
+2024-07-13 17:45:35.951235 [info]: timer tick
+2024-07-13 17:45:38.659295 [info]: adjust timer once
+2024-07-13 17:45:38.659549 [info]: POST /0 HTTP/1.1
+2024-07-13 17:45:38.659611 [info]: Host: 127.0.0.1:9006
+2024-07-13 17:45:38.659633 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+2024-07-13 17:45:38.659639 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+2024-07-13 17:45:38.659642 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-07-13 17:45:38.659644 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-07-13 17:45:38.659709 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-07-13 17:45:38.659717 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-07-13 17:45:38.659720 [info]: Accept-Encoding: gzip, deflate, br
+2024-07-13 17:45:38.659723 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-07-13 17:45:38.659725 [info]: Content-Type: application/x-www-form-urlencoded
+2024-07-13 17:45:38.659728 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2024-07-13 17:45:38.659730 [info]: Content-Length: 0
+2024-07-13 17:45:38.659733 [info]: Origin: http://127.0.0.1:9006
+2024-07-13 17:45:38.659736 [info]: oop!unknow header: Origin: http://127.0.0.1:9006
+2024-07-13 17:45:38.659738 [info]: Connection: keep-alive
+2024-07-13 17:45:38.659741 [info]: Referer: http://127.0.0.1:9006/
+2024-07-13 17:45:38.659743 [info]: oop!unknow header: Referer: http://127.0.0.1:9006/
+2024-07-13 17:45:38.659869 [info]: Upgrade-Insecure-Requests: 1
+2024-07-13 17:45:38.659894 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-07-13 17:45:38.659903 [info]: Sec-Fetch-Dest: document
+2024-07-13 17:45:38.659908 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-07-13 17:45:38.659912 [info]: Sec-Fetch-Mode: navigate
+2024-07-13 17:45:38.659916 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-07-13 17:45:38.659921 [info]: Sec-Fetch-Site: same-origin
+2024-07-13 17:45:38.659924 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-07-13 17:45:38.659929 [info]: Sec-Fetch-User: ?1
+2024-07-13 17:45:38.659933 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-07-13 17:45:38.659950 [info]: 
+2024-07-13 17:45:38.659989 [info]: request:HTTP/1.1 200 OK
+
+2024-07-13 17:45:38.660068 [info]: request:HTTP/1.1 200 OK
+Content-Length:744
+
+2024-07-13 17:45:38.660074 [info]: request:HTTP/1.1 200 OK
+Content-Length:744
+Connection:keep-alive
+
+2024-07-13 17:45:38.660077 [info]: request:HTTP/1.1 200 OK
+Content-Length:744
+Connection:keep-alive
+
+
+2024-07-13 17:45:38.660132 [info]: adjust timer once
+2024-07-13 17:45:40.951986 [info]: timer tick
+2024-07-13 17:45:45.952203 [info]: timer tick
+2024-07-13 17:45:50.952581 [info]: timer tick
+2024-07-13 17:45:55.954908 [info]: timer tick
+2024-07-13 17:46:00.955136 [info]: timer tick
+2024-07-13 17:46:05.956126 [info]: timer tick
+2024-07-13 17:46:10.957408 [info]: timer tick
+2024-07-13 17:46:15.958131 [info]: timer tick
+2024-07-13 17:46:20.958759 [info]: timer tick
+2024-07-13 17:46:21.805479 [info]: adjust timer once
+2024-07-13 17:46:21.805715 [info]: POST /3CGISQL.cgi HTTP/1.1
+2024-07-13 17:46:21.805830 [info]: Host: 127.0.0.1:9006
+2024-07-13 17:46:21.805856 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+2024-07-13 17:46:21.805881 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+2024-07-13 17:46:21.805884 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-07-13 17:46:21.805887 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-07-13 17:46:21.805889 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-07-13 17:46:21.805896 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-07-13 17:46:21.805899 [info]: Accept-Encoding: gzip, deflate, br
+2024-07-13 17:46:21.805902 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-07-13 17:46:21.806003 [info]: Content-Type: application/x-www-form-urlencoded
+2024-07-13 17:46:21.806011 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2024-07-13 17:46:21.806013 [info]: Content-Length: 36
+2024-07-13 17:46:21.806016 [info]: Origin: http://127.0.0.1:9006
+2024-07-13 17:46:21.806019 [info]: oop!unknow header: Origin: http://127.0.0.1:9006
+2024-07-13 17:46:21.806021 [info]: Connection: keep-alive
+2024-07-13 17:46:21.806039 [info]: Referer: http://127.0.0.1:9006/0
+2024-07-13 17:46:21.806042 [info]: oop!unknow header: Referer: http://127.0.0.1:9006/0
+2024-07-13 17:46:21.806044 [info]: Upgrade-Insecure-Requests: 1
+2024-07-13 17:46:21.806069 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-07-13 17:46:21.806071 [info]: Sec-Fetch-Dest: document
+2024-07-13 17:46:21.806074 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-07-13 17:46:21.806076 [info]: Sec-Fetch-Mode: navigate
+2024-07-13 17:46:21.806079 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-07-13 17:46:21.806081 [info]: Sec-Fetch-Site: same-origin
+2024-07-13 17:46:21.806083 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-07-13 17:46:21.806086 [info]: Sec-Fetch-User: ?1
+2024-07-13 17:46:21.806088 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-07-13 17:46:21.806091 [info]: 
+2024-07-13 17:46:21.806094 [info]: user=jonathan&password=0072012qazxsW
+2024-07-13 17:46:21.810592 [info]: request:HTTP/1.1 200 OK
+
+2024-07-13 17:46:21.810698 [info]: request:HTTP/1.1 200 OK
+Content-Length:746
+
+2024-07-13 17:46:21.810711 [info]: request:HTTP/1.1 200 OK
+Content-Length:746
+Connection:keep-alive
+
+2024-07-13 17:46:21.810733 [info]: request:HTTP/1.1 200 OK
+Content-Length:746
+Connection:keep-alive
+
+
+2024-07-13 17:46:21.810809 [info]: adjust timer once
+2024-07-13 17:46:25.959338 [info]: timer tick
+2024-07-13 17:46:30.959608 [info]: timer tick
+2024-07-13 17:46:34.586134 [info]: adjust timer once
+2024-07-13 17:46:34.586410 [info]: POST /2CGISQL.cgi HTTP/1.1
+2024-07-13 17:46:34.586998 [info]: Host: 127.0.0.1:9006
+2024-07-13 17:46:34.587020 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+2024-07-13 17:46:34.587026 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+2024-07-13 17:46:34.587031 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-07-13 17:46:34.587035 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-07-13 17:46:34.587039 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-07-13 17:46:34.587043 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-07-13 17:46:34.587046 [info]: Accept-Encoding: gzip, deflate, br
+2024-07-13 17:46:34.587050 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-07-13 17:46:34.587054 [info]: Content-Type: application/x-www-form-urlencoded
+2024-07-13 17:46:34.587058 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2024-07-13 17:46:34.587062 [info]: Content-Length: 36
+2024-07-13 17:46:34.587066 [info]: Origin: http://127.0.0.1:9006
+2024-07-13 17:46:34.587174 [info]: oop!unknow header: Origin: http://127.0.0.1:9006
+2024-07-13 17:46:34.587186 [info]: Connection: keep-alive
+2024-07-13 17:46:34.587249 [info]: Referer: http://127.0.0.1:9006/3CGISQL.cgi
+2024-07-13 17:46:34.587272 [info]: oop!unknow header: Referer: http://127.0.0.1:9006/3CGISQL.cgi
+2024-07-13 17:46:34.587284 [info]: Upgrade-Insecure-Requests: 1
+2024-07-13 17:46:34.587287 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-07-13 17:46:34.587290 [info]: Sec-Fetch-Dest: document
+2024-07-13 17:46:34.587293 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-07-13 17:46:34.587407 [info]: Sec-Fetch-Mode: navigate
+2024-07-13 17:46:34.587440 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-07-13 17:46:34.587445 [info]: Sec-Fetch-Site: same-origin
+2024-07-13 17:46:34.587448 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-07-13 17:46:34.587450 [info]: Sec-Fetch-User: ?1
+2024-07-13 17:46:34.587453 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-07-13 17:46:34.587455 [info]: 
+2024-07-13 17:46:34.587463 [info]: user=jonathan&password=0072012qazxsW
+2024-07-13 17:46:34.587686 [info]: request:HTTP/1.1 200 OK
+
+2024-07-13 17:46:34.587848 [info]: request:HTTP/1.1 200 OK
+Content-Length:750
+
+2024-07-13 17:46:34.587856 [info]: request:HTTP/1.1 200 OK
+Content-Length:750
+Connection:keep-alive
+
+2024-07-13 17:46:34.587859 [info]: request:HTTP/1.1 200 OK
+Content-Length:750
+Connection:keep-alive
+
+
+2024-07-13 17:46:34.587949 [info]: adjust timer once
+2024-07-13 17:46:35.960078 [info]: timer tick
+2024-07-13 17:46:40.960681 [info]: timer tick
+2024-07-13 17:46:42.280069 [info]: adjust timer once
+2024-07-13 17:46:42.280229 [info]: POST /5 HTTP/1.1
+2024-07-13 17:46:42.280302 [info]: Host: 127.0.0.1:9006
+2024-07-13 17:46:42.280320 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+2024-07-13 17:46:42.280325 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+2024-07-13 17:46:42.280328 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-07-13 17:46:42.280330 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-07-13 17:46:42.280333 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-07-13 17:46:42.280355 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-07-13 17:46:42.280365 [info]: Accept-Encoding: gzip, deflate, br
+2024-07-13 17:46:42.280369 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-07-13 17:46:42.280372 [info]: Content-Type: application/x-www-form-urlencoded
+2024-07-13 17:46:42.280374 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2024-07-13 17:46:42.280376 [info]: Content-Length: 0
+2024-07-13 17:46:42.280425 [info]: Origin: http://127.0.0.1:9006
+2024-07-13 17:46:42.280437 [info]: oop!unknow header: Origin: http://127.0.0.1:9006
+2024-07-13 17:46:42.280453 [info]: Connection: keep-alive
+2024-07-13 17:46:42.280459 [info]: Referer: http://127.0.0.1:9006/2CGISQL.cgi
+2024-07-13 17:46:42.280463 [info]: oop!unknow header: Referer: http://127.0.0.1:9006/2CGISQL.cgi
+2024-07-13 17:46:42.280489 [info]: Upgrade-Insecure-Requests: 1
+2024-07-13 17:46:42.280505 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-07-13 17:46:42.280524 [info]: Sec-Fetch-Dest: document
+2024-07-13 17:46:42.280530 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-07-13 17:46:42.280534 [info]: Sec-Fetch-Mode: navigate
+2024-07-13 17:46:42.280538 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-07-13 17:46:42.280551 [info]: Sec-Fetch-Site: same-origin
+2024-07-13 17:46:42.280590 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-07-13 17:46:42.280613 [info]: Sec-Fetch-User: ?1
+2024-07-13 17:46:42.280634 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-07-13 17:46:42.280678 [info]: 
+2024-07-13 17:46:42.280713 [info]: request:HTTP/1.1 200 OK
+
+2024-07-13 17:46:42.280776 [info]: request:HTTP/1.1 200 OK
+Content-Length:375
+
+2024-07-13 17:46:42.280789 [info]: request:HTTP/1.1 200 OK
+Content-Length:375
+Connection:keep-alive
+
+2024-07-13 17:46:42.280792 [info]: request:HTTP/1.1 200 OK
+Content-Length:375
+Connection:keep-alive
+
+
+2024-07-13 17:46:42.280814 [info]: adjust timer once
+2024-07-13 17:46:42.307374 [info]: adjust timer once
+2024-07-13 17:46:42.307503 [info]: GET /xxx.jpg HTTP/1.1
+2024-07-13 17:46:42.307542 [info]: Host: 127.0.0.1:9006
+2024-07-13 17:46:42.307554 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+2024-07-13 17:46:42.307580 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+2024-07-13 17:46:42.307584 [info]: Accept: image/avif,image/webp,*/*
+2024-07-13 17:46:42.307586 [info]: oop!unknow header: Accept: image/avif,image/webp,*/*
+2024-07-13 17:46:42.307589 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-07-13 17:46:42.307595 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-07-13 17:46:42.307598 [info]: Accept-Encoding: gzip, deflate, br
+2024-07-13 17:46:42.307624 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-07-13 17:46:42.307630 [info]: Connection: keep-alive
+2024-07-13 17:46:42.307632 [info]: Referer: http://127.0.0.1:9006/5
+2024-07-13 17:46:42.307668 [info]: oop!unknow header: Referer: http://127.0.0.1:9006/5
+2024-07-13 17:46:42.307710 [info]: Sec-Fetch-Dest: image
+2024-07-13 17:46:42.307715 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2024-07-13 17:46:42.307718 [info]: Sec-Fetch-Mode: no-cors
+2024-07-13 17:46:42.307721 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2024-07-13 17:46:42.307723 [info]: Sec-Fetch-Site: same-origin
+2024-07-13 17:46:42.307726 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-07-13 17:46:42.307728 [info]: 
+2024-07-13 17:46:42.307763 [info]: request:HTTP/1.1 200 OK
+
+2024-07-13 17:46:42.307815 [info]: request:HTTP/1.1 200 OK
+Content-Length:6007312
+
+2024-07-13 17:46:42.307821 [info]: request:HTTP/1.1 200 OK
+Content-Length:6007312
+Connection:keep-alive
+
+2024-07-13 17:46:42.307824 [info]: request:HTTP/1.1 200 OK
+Content-Length:6007312
+Connection:keep-alive
+
+
+2024-07-13 17:46:42.307945 [info]: adjust timer once
+2024-07-13 17:46:45.961121 [info]: timer tick
+2024-07-13 17:46:50.962720 [info]: timer tick
+2024-07-13 17:46:55.962936 [info]: timer tick
+2024-07-13 17:47:00.964981 [info]: timer tick
+2024-07-13 17:47:05.966039 [info]: timer tick
+2024-07-13 17:47:10.966322 [info]: timer tick
+2024-07-13 17:47:15.968090 [info]: timer tick
+2024-07-13 17:47:20.969280 [info]: timer tick
+2024-07-13 17:47:25.970233 [info]: timer tick
+2024-07-13 17:47:27.867342 [info]: adjust timer once
+2024-07-13 17:47:27.867684 [info]: POST /7 HTTP/1.1
+2024-07-13 17:47:27.867981 [info]: Host: 127.0.0.1:9006
+2024-07-13 17:47:27.868016 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+2024-07-13 17:47:27.868019 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+2024-07-13 17:47:27.868022 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-07-13 17:47:27.868025 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-07-13 17:47:27.868028 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-07-13 17:47:27.868030 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-07-13 17:47:27.868073 [info]: Accept-Encoding: gzip, deflate, br
+2024-07-13 17:47:27.868098 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-07-13 17:47:27.868101 [info]: Content-Type: application/x-www-form-urlencoded
+2024-07-13 17:47:27.868103 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2024-07-13 17:47:27.868119 [info]: Content-Length: 0
+2024-07-13 17:47:27.868124 [info]: Origin: http://127.0.0.1:9006
+2024-07-13 17:47:27.868126 [info]: oop!unknow header: Origin: http://127.0.0.1:9006
+2024-07-13 17:47:27.868129 [info]: Connection: keep-alive
+2024-07-13 17:47:27.868131 [info]: Referer: http://127.0.0.1:9006/2CGISQL.cgi
+2024-07-13 17:47:27.868192 [info]: oop!unknow header: Referer: http://127.0.0.1:9006/2CGISQL.cgi
+2024-07-13 17:47:27.868215 [info]: Upgrade-Insecure-Requests: 1
+2024-07-13 17:47:27.868223 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-07-13 17:47:27.868227 [info]: Sec-Fetch-Dest: document
+2024-07-13 17:47:27.868231 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-07-13 17:47:27.868235 [info]: Sec-Fetch-Mode: navigate
+2024-07-13 17:47:27.868262 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-07-13 17:47:27.868288 [info]: Sec-Fetch-Site: same-origin
+2024-07-13 17:47:27.868298 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-07-13 17:47:27.868317 [info]: Sec-Fetch-User: ?1
+2024-07-13 17:47:27.868339 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-07-13 17:47:27.868348 [info]: 
+2024-07-13 17:47:27.868407 [info]: request:HTTP/1.1 200 OK
+
+2024-07-13 17:47:27.868447 [info]: request:HTTP/1.1 200 OK
+Content-Length:407
+
+2024-07-13 17:47:27.868454 [info]: request:HTTP/1.1 200 OK
+Content-Length:407
+Connection:keep-alive
+
+2024-07-13 17:47:27.868456 [info]: request:HTTP/1.1 200 OK
+Content-Length:407
+Connection:keep-alive
+
+
+2024-07-13 17:47:27.868702 [info]: adjust timer once
+2024-07-13 17:47:27.900439 [info]: adjust timer once
+2024-07-13 17:47:27.900617 [info]: GET /test1.jpg HTTP/1.1
+2024-07-13 17:47:27.900671 [info]: Host: 127.0.0.1:9006
+2024-07-13 17:47:27.900679 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+2024-07-13 17:47:27.900682 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+2024-07-13 17:47:27.900685 [info]: Accept: image/avif,image/webp,*/*
+2024-07-13 17:47:27.900688 [info]: oop!unknow header: Accept: image/avif,image/webp,*/*
+2024-07-13 17:47:27.900691 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-07-13 17:47:27.900693 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-07-13 17:47:27.900710 [info]: Accept-Encoding: gzip, deflate, br
+2024-07-13 17:47:27.900715 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-07-13 17:47:27.900717 [info]: Connection: keep-alive
+2024-07-13 17:47:27.900738 [info]: Referer: http://127.0.0.1:9006/7
+2024-07-13 17:47:27.900743 [info]: oop!unknow header: Referer: http://127.0.0.1:9006/7
+2024-07-13 17:47:27.900746 [info]: Sec-Fetch-Dest: image
+2024-07-13 17:47:27.900748 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2024-07-13 17:47:27.900751 [info]: Sec-Fetch-Mode: no-cors
+2024-07-13 17:47:27.900758 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2024-07-13 17:47:27.900797 [info]: Sec-Fetch-Site: same-origin
+2024-07-13 17:47:27.900804 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-07-13 17:47:27.900823 [info]: 
+2024-07-13 17:47:27.900861 [info]: request:HTTP/1.1 200 OK
+
+2024-07-13 17:47:27.900884 [info]: request:HTTP/1.1 200 OK
+Content-Length:78443
+
+2024-07-13 17:47:27.900890 [info]: request:HTTP/1.1 200 OK
+Content-Length:78443
+Connection:keep-alive
+
+2024-07-13 17:47:27.900893 [info]: request:HTTP/1.1 200 OK
+Content-Length:78443
+Connection:keep-alive
+
+
+2024-07-13 17:47:27.900948 [info]: adjust timer once
+2024-07-13 17:47:30.970844 [info]: timer tick
+2024-07-13 17:47:35.971711 [info]: timer tick
+2024-07-13 17:47:37.096249 [info]: adjust timer once
+2024-07-13 17:47:37.096395 [info]: POST /6 HTTP/1.1
+2024-07-13 17:47:37.096511 [info]: Host: 127.0.0.1:9006
+2024-07-13 17:47:37.096523 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+2024-07-13 17:47:37.096545 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+2024-07-13 17:47:37.096554 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-07-13 17:47:37.096558 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2024-07-13 17:47:37.096562 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-07-13 17:47:37.096595 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-07-13 17:47:37.096606 [info]: Accept-Encoding: gzip, deflate, br
+2024-07-13 17:47:37.096611 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2024-07-13 17:47:37.096615 [info]: Content-Type: application/x-www-form-urlencoded
+2024-07-13 17:47:37.096683 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2024-07-13 17:47:37.096695 [info]: Content-Length: 0
+2024-07-13 17:47:37.096698 [info]: Origin: http://127.0.0.1:9006
+2024-07-13 17:47:37.096701 [info]: oop!unknow header: Origin: http://127.0.0.1:9006
+2024-07-13 17:47:37.096703 [info]: Connection: keep-alive
+2024-07-13 17:47:37.096706 [info]: Referer: http://127.0.0.1:9006/2CGISQL.cgi
+2024-07-13 17:47:37.096708 [info]: oop!unknow header: Referer: http://127.0.0.1:9006/2CGISQL.cgi
+2024-07-13 17:47:37.096711 [info]: Upgrade-Insecure-Requests: 1
+2024-07-13 17:47:37.096713 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-07-13 17:47:37.096716 [info]: Sec-Fetch-Dest: document
+2024-07-13 17:47:37.096718 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-07-13 17:47:37.096726 [info]: Sec-Fetch-Mode: navigate
+2024-07-13 17:47:37.096776 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-07-13 17:47:37.096800 [info]: Sec-Fetch-Site: same-origin
+2024-07-13 17:47:37.096806 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-07-13 17:47:37.096809 [info]: Sec-Fetch-User: ?1
+2024-07-13 17:47:37.096811 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-07-13 17:47:37.096814 [info]: 
+2024-07-13 17:47:37.096855 [info]: request:HTTP/1.1 200 OK
+
+2024-07-13 17:47:37.096886 [info]: request:HTTP/1.1 200 OK
+Content-Length:398
+
+2024-07-13 17:47:37.096892 [info]: request:HTTP/1.1 200 OK
+Content-Length:398
+Connection:keep-alive
+
+2024-07-13 17:47:37.096895 [info]: request:HTTP/1.1 200 OK
+Content-Length:398
+Connection:keep-alive
+
+
+2024-07-13 17:47:37.096929 [info]: adjust timer once
+2024-07-13 17:47:37.236036 [info]: adjust timer once
+2024-07-13 17:47:37.236197 [info]: GET /xxx.mp4 HTTP/1.1
+2024-07-13 17:47:37.236238 [info]: Host: 127.0.0.1:9006
+2024-07-13 17:47:37.236263 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+2024-07-13 17:47:37.236274 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+2024-07-13 17:47:37.236278 [info]: Accept: video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5
+2024-07-13 17:47:37.236281 [info]: oop!unknow header: Accept: video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5
+2024-07-13 17:47:37.236307 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-07-13 17:47:37.236312 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2024-07-13 17:47:37.236315 [info]: Range: bytes=0-
+2024-07-13 17:47:37.236330 [info]: oop!unknow header: Range: bytes=0-
+2024-07-13 17:47:37.236346 [info]: Connection: keep-alive
+2024-07-13 17:47:37.236352 [info]: Referer: http://127.0.0.1:9006/6
+2024-07-13 17:47:37.236354 [info]: oop!unknow header: Referer: http://127.0.0.1:9006/6
+2024-07-13 17:47:37.236357 [info]: Sec-Fetch-Dest: video
+2024-07-13 17:47:37.236359 [info]: oop!unknow header: Sec-Fetch-Dest: video
+2024-07-13 17:47:37.236372 [info]: Sec-Fetch-Mode: no-cors
+2024-07-13 17:47:37.236375 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2024-07-13 17:47:37.236378 [info]: Sec-Fetch-Site: same-origin
+2024-07-13 17:47:37.236380 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-07-13 17:47:37.236394 [info]: Accept-Encoding: identity
+2024-07-13 17:47:37.236397 [info]: oop!unknow header: Accept-Encoding: identity
+2024-07-13 17:47:37.236400 [info]: 
+2024-07-13 17:47:37.236469 [info]: request:HTTP/1.1 200 OK
+
+2024-07-13 17:47:37.236510 [info]: request:HTTP/1.1 200 OK
+Content-Length:39667571
+
+2024-07-13 17:47:37.236516 [info]: request:HTTP/1.1 200 OK
+Content-Length:39667571
+Connection:keep-alive
+
+2024-07-13 17:47:37.236519 [info]: request:HTTP/1.1 200 OK
+Content-Length:39667571
+Connection:keep-alive
+
+
+2024-07-13 17:47:37.236557 [info]: adjust timer once
+2024-07-13 17:47:40.972313 [info]: timer tick
+2024-07-13 17:47:45.973085 [info]: timer tick
+2024-07-13 17:47:50.973910 [info]: timer tick
+2024-07-13 17:47:51.320881 [info]: close fd 18
+2024-07-13 17:47:55.974340 [info]: timer tick
+2024-07-13 17:48:00.974788 [info]: timer tick
+2024-07-13 17:48:05.975245 [info]: timer tick
+2024-07-13 17:48:10.975534 [info]: timer tick
+2024-07-13 17:48:15.975715 [info]: timer tick
+2024-07-13 17:48:20.976143 [info]: timer tick
+2024-07-13 17:48:25.977203 [info]: timer tick
+2024-07-13 17:48:30.978422 [info]: timer tick
+2024-07-13 17:48:35.979050 [info]: timer tick
+2024-07-13 17:48:40.980263 [info]: timer tick
+2024-07-13 17:48:45.980585 [info]: timer tick
+2024-07-13 17:48:50.981105 [info]: timer tick
+2024-07-13 17:48:55.981691 [info]: timer tick
+2024-07-13 17:49:00.982732 [info]: timer tick
+2024-07-13 17:49:05.983947 [info]: timer tick
+2024-07-13 17:49:10.984275 [info]: timer tick
+2024-07-13 17:49:15.984966 [info]: timer tick
+2024-07-13 17:49:20.985389 [info]: timer tick
+2024-07-13 17:49:25.986189 [info]: timer tick
+2024-07-13 17:49:30.986867 [info]: timer tick
+2024-07-13 17:49:35.987483 [info]: timer tick
+2024-07-13 17:49:40.988409 [info]: timer tick
+2024-07-13 17:49:45.989329 [info]: timer tick
+2024-07-13 17:49:50.990019 [info]: timer tick
+2024-07-13 17:49:55.991642 [info]: timer tick
+2024-07-13 17:50:00.993182 [info]: timer tick
+2024-07-13 17:50:05.993334 [info]: timer tick
+2024-07-13 17:50:10.994322 [info]: timer tick
+2024-07-13 17:50:15.994362 [info]: timer tick
+2024-07-13 17:50:20.995123 [info]: timer tick
+2024-07-13 17:50:25.995292 [info]: timer tick
+2024-07-13 17:50:30.996203 [info]: timer tick
+2024-07-13 17:50:35.997097 [info]: timer tick
+2024-07-13 17:50:40.998110 [info]: timer tick
+2024-07-13 17:50:45.998283 [info]: timer tick
+2024-07-13 17:50:50.998375 [info]: timer tick
+2024-07-13 17:50:55.999156 [info]: timer tick
+2024-07-13 17:51:00.999362 [info]: timer tick
+2024-07-13 17:51:05.999986 [info]: timer tick
+2024-07-13 17:51:11.000465 [info]: timer tick
+2024-07-13 17:51:16.001474 [info]: timer tick
+2024-07-13 17:51:21.002828 [info]: timer tick
+2024-07-13 17:51:26.003176 [info]: timer tick
+2024-07-13 17:51:31.003292 [info]: timer tick
+2024-07-13 17:51:36.003408 [info]: timer tick
+2024-07-13 17:51:41.003882 [info]: timer tick
+2024-07-13 17:51:46.003997 [info]: timer tick
+2024-07-13 17:51:51.004221 [info]: timer tick
+2024-07-13 17:51:56.004586 [info]: timer tick
+2024-07-13 17:52:01.005340 [info]: timer tick
+2024-07-13 17:52:06.005652 [info]: timer tick
+2024-07-13 17:52:11.006449 [info]: timer tick
+2024-07-13 17:52:16.007724 [info]: timer tick
+2024-07-13 17:52:21.008645 [info]: timer tick
+2024-07-13 17:52:26.008965 [info]: timer tick
+2024-07-13 17:52:31.009899 [info]: timer tick
+2024-07-13 17:52:36.010583 [info]: timer tick
+2024-07-13 17:52:41.011585 [info]: timer tick
+2024-07-13 17:52:46.012148 [info]: timer tick
+2024-07-13 17:52:51.012278 [info]: timer tick
+2024-07-13 17:52:56.013474 [info]: timer tick
+2024-07-13 17:53:01.014200 [info]: timer tick
+2024-07-13 17:53:06.015167 [info]: timer tick
+2024-07-13 17:53:11.015991 [info]: timer tick
+2024-07-13 17:53:16.016416 [info]: timer tick
+2024-07-13 17:53:21.017942 [info]: timer tick
+2024-07-13 17:53:26.018807 [info]: timer tick
+2024-07-13 17:53:31.019182 [info]: timer tick
+2024-07-13 17:53:36.019403 [info]: timer tick
+2024-07-13 17:53:41.019924 [info]: timer tick
+2024-07-13 17:53:46.021484 [info]: timer tick
+2024-07-13 17:53:51.022595 [info]: timer tick
+2024-07-13 17:53:56.023130 [info]: timer tick
+2024-07-13 17:54:01.023414 [info]: timer tick
+2024-07-13 17:54:06.024894 [info]: timer tick
+2024-07-13 17:54:11.025070 [info]: timer tick
+2024-07-13 17:54:16.025635 [info]: timer tick
+2024-07-13 17:54:21.025940 [info]: timer tick
+2024-07-13 17:54:26.026084 [info]: timer tick
+2024-07-13 17:54:31.026625 [info]: timer tick
+2024-07-13 17:54:36.026864 [info]: timer tick
+2024-07-13 17:54:41.027992 [info]: timer tick
+2024-07-13 17:54:46.028226 [info]: timer tick
+2024-07-13 17:54:51.028672 [info]: timer tick
+2024-07-13 17:54:56.029051 [info]: timer tick
+2024-07-13 17:55:01.030446 [info]: timer tick
+2024-07-13 17:55:06.031820 [info]: timer tick
+2024-07-13 17:55:11.031943 [info]: timer tick
+2024-07-13 17:55:16.032618 [info]: timer tick
+2024-07-13 17:55:21.033873 [info]: timer tick
+2024-07-13 17:55:26.034774 [info]: timer tick
+2024-07-13 17:55:31.034988 [info]: timer tick
+2024-07-13 17:55:36.035410 [info]: timer tick
+2024-07-13 17:55:41.036440 [info]: timer tick
+2024-07-13 17:55:46.037317 [info]: timer tick
+2024-07-13 17:55:51.037618 [info]: timer tick
+2024-07-13 17:55:56.038666 [info]: timer tick
+2024-07-13 17:56:01.038912 [info]: timer tick
+2024-07-13 17:56:06.039356 [info]: timer tick
+2024-07-13 17:56:11.040835 [info]: timer tick
+2024-07-13 17:56:16.041606 [info]: timer tick
+2024-07-13 17:56:21.042435 [info]: timer tick
+2024-07-13 17:56:26.043025 [info]: timer tick
+2024-07-13 17:56:31.043276 [info]: timer tick
+2024-07-13 17:56:36.043573 [info]: timer tick
+2024-07-13 17:56:41.044256 [info]: timer tick
+2024-07-13 17:56:46.045434 [info]: timer tick
+2024-07-13 17:56:51.045984 [info]: timer tick
+2024-07-13 17:56:56.046741 [info]: timer tick
+2024-07-13 17:57:01.048083 [info]: timer tick
+2024-07-13 17:57:06.048314 [info]: timer tick
+2024-07-13 17:57:11.049997 [info]: timer tick
+2024-07-13 17:57:16.050612 [info]: timer tick
+2024-07-13 17:57:21.051696 [info]: timer tick
+2024-07-13 17:57:26.052539 [info]: timer tick
+2024-07-13 17:57:31.053211 [info]: timer tick
+2024-07-13 17:57:36.054189 [info]: timer tick
+2024-07-13 17:57:41.055056 [info]: timer tick
+2024-07-13 17:57:46.055349 [info]: timer tick
+2024-07-13 17:57:51.056770 [info]: timer tick
+2024-07-13 17:57:56.057405 [info]: timer tick
+2024-07-13 17:58:01.058163 [info]: timer tick
+2024-07-13 17:58:06.059061 [info]: timer tick
+2024-07-13 17:58:11.059784 [info]: timer tick
+2024-07-13 17:58:16.060693 [info]: timer tick
+2024-07-13 17:58:21.061062 [info]: timer tick
+2024-07-13 17:58:26.061197 [info]: timer tick
+2024-07-13 17:58:31.062349 [info]: timer tick
+2024-07-13 17:58:36.063932 [info]: timer tick
+2024-07-13 17:58:41.065024 [info]: timer tick
+2024-07-13 17:58:46.065668 [info]: timer tick
+2024-07-13 17:58:51.066266 [info]: timer tick
+2024-07-13 17:58:56.067112 [info]: timer tick
+2024-07-13 17:59:01.067516 [info]: timer tick
+2024-07-13 17:59:06.068394 [info]: timer tick
+2024-07-13 17:59:11.069214 [info]: timer tick
+2024-07-13 17:59:16.070195 [info]: timer tick
+2024-07-13 17:59:21.070757 [info]: timer tick
+2024-07-13 17:59:26.071300 [info]: timer tick
+2024-07-13 17:59:31.072579 [info]: timer tick
+2024-07-13 17:59:36.073800 [info]: timer tick
+2024-07-13 17:59:41.073882 [info]: timer tick
+2024-07-13 17:59:46.075345 [info]: timer tick
+2024-07-13 17:59:51.075746 [info]: timer tick
+2024-07-13 17:59:56.075836 [info]: timer tick
+2024-07-13 18:00:01.076275 [info]: timer tick
+2024-07-13 18:00:06.076653 [info]: timer tick
+2024-07-13 18:00:11.076832 [info]: timer tick
+2024-07-13 18:00:16.077906 [info]: timer tick
+2024-07-13 18:00:21.078590 [info]: timer tick
+2024-07-13 18:00:26.078962 [info]: timer tick
+2024-07-13 18:00:31.079286 [info]: timer tick
+2024-07-13 18:00:36.080320 [info]: timer tick
+2024-07-13 18:00:41.081324 [info]: timer tick
